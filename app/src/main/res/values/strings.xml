@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">P0571_GtidView</string>
+    <string-array name="data">
+        <item name="a">a</item>
+        <item name="b">b</item>
+        <item name="c">c</item>
+        <item name="d">d</item>
+        <item name="e">e</item>
+        <item name="f">f</item>
+        <item name="g">g</item>
+        <item name="h">h</item>
+        <item name="i">i</item>
+        <item name="j">j</item>
+        <item name="k">k</item>
+    </string-array>
+</resources>
